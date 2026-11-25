@@ -3,7 +3,7 @@ Caso de estudio: Instituto Salvadoreño del Seguro Social (ISSS)
 
 Proyecto académico desarrollado para la materia Gestión de Proyectos Informáticos Universidad Pedagógica de El Salvador (UPED) · Docente: Ing. Julio Menéndez · Grupo N° 2
 
-📌 ¿Qué es este proyecto? a
+📌 ¿Qué es este proyecto? 
 
 El ISSS gestiona el historial clínico de sus derechohabientes de forma fragmentada: cada hospital, unidad médica y clínica comunal opera con sistemas propios, formatos distintos o incluso registros en papel. Cuando un paciente es referido a otro establecimiento, su historial no viaja con él.
 
