@@ -167,21 +167,21 @@ Se monitorea con tres indicadores: **SPI** (tiempo), **CPI** (costo) y **cumplim
 | Integrante | Rol | Responsabilidad principal | Contribución |
 |---|---|---|---|
 | **Christian Josué López Rivas** | Líder de Proyecto | Coordinación general, comunicación con el docente, plan de despliegue y gestión del cambio, cronograma y control del avance | **18 %** |
-| **Melvin Alexander García Ramos** | Analista Funcional | Requerimientos funcionales, definición del problema, casos de uso | **17 %** |
-| **Fernando Miguel Elías Soriano** | Arquitecto de Interoperabilidad | Arquitectura FHIR R4, requerimientos técnicos, mapeo de recursos y adaptadores | **18 %** |
-| **Josué Jared De León García** | Desarrollador Backend | Diseño del servidor FHIR, adaptadores de integración y base de datos | **17 %** |
+| **Melvin Alexander García Ramos** | Analista Funcional | Requerimientos funcionales, definición del problema, casos de uso | **18 %** |
+| **Fernando Miguel Elías Soriano** | Arquitecto de Interoperabilidad | Arquitectura FHIR R4, requerimientos técnicos, mapeo de recursos y adaptadores | **17 %** |
+| **Josué Jared De León García** | Desarrollador Backend | Diseño del servidor FHIR, adaptadores de integración y base de datos | **15 %** |
 | **Diana Damaris García Medina** | Desarrolladora Frontend | Prototipo en Figma y diseño del portal de consulta interinstitucional | **15 %** |
-| **Manuel Armando Vásquez Trujillo** | Encargado de Seguridad y Calidad | Requerimientos de seguridad, plan de pruebas, matriz de riesgos y autenticación RBAC | **15 %** |
+| **Manuel Armando Vásquez Trujillo** | Encargado de Seguridad y Calidad | Requerimientos de seguridad, plan de pruebas, matriz de riesgos y autenticación RBAC | **17 %** |
 | | | **Total** | **100 %** |
 
 ### Gráfico de contribución
 
 ```
 Christian  ██████████████████  18 %
-Fernando   ██████████████████  18 %
-Melvin     █████████████████   17 %
-Josué      █████████████████   17 %
+Melvin     ██████████████████  18 %
+Fernando   █████████████████   17 %
+Manuel     █████████████████   17 %
 Diana      ███████████████     15 %
-Manuel     ███████████████     15 %
+Josué      ███████████████     15 %
 ```
 
